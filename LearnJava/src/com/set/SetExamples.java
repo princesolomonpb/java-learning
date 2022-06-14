@@ -22,6 +22,7 @@ public void HashSet() {
 	hs.add(90);
 	hs.add(10);
 	hs.add(20);
+	hs.add(30);
 	System.out.println("linked hashsets are"+hs);
 	List hs1=new ArrayList();
 	hs1.addAll(hs);
